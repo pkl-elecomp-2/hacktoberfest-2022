@@ -5,4 +5,6 @@
 Perkenalkan Nama saya Bjorka
 Alamat saya Malang
 hobi saya overthinking
-profesi saya sebagai hacker 
+profesi saya sebagai hacker
+
+Quote of the day "Malu adalah sebagian dari iman"
